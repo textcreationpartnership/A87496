@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation to the King; in a sermon preached the 15. of June, 1647. Before His Majesty, and the head of Sir Thomas Fairfax his army. Out of Jonah, ch. 3. v 7,8. And hee caused it to be proclaimed, &amp;c. / By Francis James, preacher of Gods word. Published by his Majesties speciall command.</title>
+            <author>James, Francis, preacher of Gods Word.</author>
+         </titleStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87496</idno><idno type="EEBO-CITATION">99862143</idno>
+  <idno type="VID">160342</idno>
+  <idno type="EEBO-PROQUEST">2240952815</idno>
+  
+            <idno type="STC">Wing J424</idno>
+            <idno type="STC">Thomason E396_6</idno>
+            <idno type="STC">ESTC R201643</idno>
+            <idno type="PROQUEST">99862143</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862143e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160342)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation to the King; in a sermon preached the 15. of June, 1647. Before His Majesty, and the head of Sir Thomas Fairfax his army. Out of Jonah, ch. 3. v 7,8. And hee caused it to be proclaimed, &amp;c. / By Francis James, preacher of Gods word. Published by his Majesties speciall command.</title>
+                  <author>James, Francis, preacher of Gods Word.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>by John Hammond,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Annotation on Thomason copy: "June [i.e. July?] 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Jonah III, 7-8 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160342:1"/>
+            <p>A PROCLAMATION TO THE KING; In a Sermon preached the 15. of <hi>June,</hi> 1647. Before His Majesty, and the head of Sir <hi>Thomas Fairfax his</hi> Army.</p>
+            <p>Out of <hi>Jonah,</hi> ch. 3. v 7, 8. <hi>And hee caused it to be proclaimed,</hi> &amp;c.</p>
+            <p>By <hi>Francis James,</hi> Preacher of Gods Word.</p>
+            <q>
+               <bibl>
+                  <hi>Esay 51.1.</hi>
+               </bibl>
+               <p>Sonne of Man lift up thy voyce like a Trumpet.</p>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="royal_order">
+                        <p>Published by his Majesties speciall Command.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Printed at</hi> London <hi>by</hi> John Hammond, 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:160342:2"/>
+            <pb facs="tcp:160342:2"/>
+            <head>TO THE MAJESTIE OF ROYALL KING CHARLES, GREAT BRITTAINES <hi>MONARCH.</hi>
+            </head>
+            <opener>
+               <salute>Dread Soveraigne,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hat your gracious Majestie hath practised of Humiliation (the subject of this worke) is not unknowne to your people; how full and frequent in Divine Supplications, joyned with many singular Attestations, to compose your subjects with godly and universall Re<g ref="char:EOLhyphen"/>formation both in Church and State: And now also, because it was your Majesties speciall Command, after the delive<g ref="char:EOLhyphen"/>rie hereof, that this Sermon should be published; there<g ref="char:EOLhyphen"/>fore, according to dutie, it is here presented to your Royall hand. Notwithstanding this small Paper be in it selfe means and worthlesse; yet as <hi>Artaxerxes</hi> from a gratefull minde received a Cup of cold water, where a better Present could not be had; so your Majesties knowne Candor will entertaine and cherish this Mite, and by indulgent Princely acceptation adde worth unto it. The King of <hi>Niniveh</hi>
+               <pb facs="tcp:160342:3"/>here bespeakes you <hi>(Gracious Sir)</hi> and as his, so may your <hi>Practice of Pietie</hi> keepe off Judgements from this Age also; and as <hi>Niniveh</hi> at the Command of her King turned to <hi>Repentance,</hi> so may these your Realmes doe the like, obeying God and his Vice-gerent.</p>
+            <p>This unfainedly wisheth he, who in all words and workes desireth to write and speake such things whereby him<g ref="char:EOLhyphen"/>selfe and all the House of GOD may be saved; de<g ref="char:EOLhyphen"/>siring also, that your Majesties <hi>Soule</hi> may bee ever bound up in the Bundle of <hi>Life,</hi> and kept from wicked assasination, that after a long and happy Fruition of your Kingdome here, you may be translated into a more glorious one hereafter.</p>
+            <closer>
+               <signed>
+                  <hi>Your Majesties most loyall, humble,<lb/> obedient</hi> Orator, <hi>and</hi> Subject,<lb/> Francis James.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:160342:3"/>
+            <head>A Proclamation to the King.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Jonah, 3 chap. vers. 7, 8.</hi>
+                  </bibl>
+                  <p>And hee caused it to be proclaimed, &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg> Serious Sack-cloth dutie of Fasting and Mourning is here enjoyned in my Text, from no lesse autho<g ref="char:EOLhyphen"/>ritie then the Royall Proclamation of <hi>Ninivehs</hi> King. The occasion of it is taken primarily from <hi>Ninivehs</hi> horrible &amp; crying transgressions, for <hi>Ni<g ref="char:EOLhyphen"/>niveh</hi> was, <hi>Urbs tam plena vitiis quàm divitiis,</hi> a Citie as sinfull as rich: secondly, from the due consideration of the severe de<g ref="char:EOLhyphen"/>nuntiation of Gods awfull judgements against her for her trans<g ref="char:EOLhyphen"/>gressions: thirdly, from the Commission of <hi>Jonah,</hi> c. 1. v. 2. <hi>Arise, goe to Niniveh, cry against it,</hi> as an Embassadour extraordinary to give drowsie <hi>Niniveh,</hi> out of her profound sleep of sin, an <hi>alarum, to awake unto righteousnesse,</hi> 1 <hi>Cor.</hi> 15.34. to shake off stupiditie, senselesnesse, and securitie: for be cryed our, <hi>Adhuc quadraginta,</hi> &amp;c. <hi>Yet fortie dayes, and Niniveh shall be destroyed,</hi> chap. 3. v. 4. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Oh, but this is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The Sonne of Truth, and therefore must be beleeved. And in the fifth verse see the effect he wrought; <hi>For the people of Niniveh beleeved God, and proclaimed a Fast, and put on sack-cloth, from the greatest of them to the least,</hi> yea, the King himselfe: for in the verse before my Text, <hi>word came unto him, and he arese from his Throne, and he layd his Robe from him, and covered him with sack-cloth, and sat in ashes.</hi> You see the example: not the Royall. Throne exempts the King from this dutie; the voice of Humiliation calls unto him, not unlike that in <hi>Jere.</hi> 13.18. <hi>Say unto the King and Queen, Humble your selves, sit downe, for your Principalities shall come downe, even the Crowne of your glory.</hi> No mervaile if he be troubled at this voice, as <hi>Herod</hi> was, and all <hi>Jerusalem</hi> with him, at the Birth of our Saviour, <hi>Math.</hi> 2.8. No wonder if his knees smite together, as <hi>Belshazzars</hi> did at the hand-writing against him on the wall.</p>
+            <pb facs="tcp:160342:4"/>
+            <p> The use you shall make from hence is, <hi>Learne to heare &amp; give eare, and be not proud, learne to feare him who ought to be feared, who is great amongst the Gods; when he denounceth wrath, when his judgements are abroad, learne righteousnesse, O inhabitants of the earth.</hi> Learne to heate, and feare, and tremble, and to do no more so wickedly; give glory unto God by confession of sinnes, <hi>before your feet stumble upon the darke Mountaines, and while you look for light he turne it into the shadow of death, &amp; make it grosse darkensse,</hi> 13. <hi>Jer.</hi> 15, 16. Learne to believe &amp; make use of Gods awfull threatned judgements, as well as his gracious promises; I know our corrupt natures are more inclinable to hearken to the latter then the former, for we delight in them; they are a pleasant cordiall, but the other are bitter, though wholsome, pills to swallow downe: but Oh, let faith be set on worke on both subjects: Let the legall denuntiations be received and be<g ref="char:EOLhyphen"/>lieved, as well as the Evangelicall promises: doth God de<g ref="char:EOLhyphen"/>nounce judgements? He delighteth in the soule that trembles at his words: does he call for humiliation? <hi>he takes pleasure in the soule that walkes humbly with his God.</hi> And this is the duty and <hi>Practice of Piety</hi> here in my Text: <hi>For the King caused it to let Proclaimed thorow</hi> Niniveh, <hi>and published by the Decree of him and his Nobles, saying, Let neither man nor heast, Herd nor Flock, tast any thing</hi> &amp;c. <hi>but let man and beast be covered with Sack-cloth, and cry mightily unto God; yea, let them turne every one from his evill way, and from the violence that is in their hands.</hi> In the composition of which words, there are principally ob<g ref="char:EOLhyphen"/>servable three ingredients.</p>
+            <list>
+               <item>1. Solemne and strict Humiliation; <hi>Let man</hi> &amp;c.</item>
+               <item>2. Solemne and devout Supplication; <hi>Cry mightily</hi> &amp;c.</item>
+               <item>3. Vuniversall and reall Reformation; <hi>Every one turne</hi> &amp;c.</item>
+            </list>
+            <p>Of these in their order. For the first, it is apparent, here is fasting and mourning not onely enjoyned, but joyned together, suitable unto that in <hi>Joel</hi> 2.12. <hi>Thus saith the Lord, Turne you even to me, with fasting, weeping, and mourning:</hi> For want of this duty, God not onely discountenanceth the stub<g ref="char:EOLhyphen"/>borne
+<pb facs="tcp:160342:4"/>
+               <hi>Jewes,</hi> but also reproved them, <hi>Isay</hi> 22. <hi>v.</hi> 12, 13. when he faith, <hi>The Lord did call to weeping and mourning, and baldnesse, and girding with sack-cloth, but behold joy and gladnesse, slaying of Oxen, and killing of Sheepe, eating flesh and drinking wine; let us eat and drinke, for to morrow we shall die,</hi> &amp;c. <hi>surely this iniquitie shall not be purged from you till ye die, saith the Lord of Hosts.</hi> Sack-cloth it selfe, a rigid garment, is here call'd for also in my Text, as an expressive embleme and symptome of inward com<g ref="char:EOLhyphen"/>punction and heartie sorrow. It was, it seemes, the usuall and ceremoniall habit of mourners in those times under the Law; they made themselves bald, they sat in ashes, or put ashes on their heads in the Easterne Countries, and they rent their gar<g ref="char:EOLhyphen"/>ments; but we under the Gospel are more spirituall, we presse not the outward adumbration or shadow, so much as the inward substance and materialitie: To us the word is, <hi>Rent your hearts and not your garments, and turne to the Lord your God.</hi> I see, Be<g ref="char:EOLhyphen"/>loved, no garments torne this day, nay, rather with griefe of heart I see apparell in men and women more gorgeous then befits the dust and ashes of this sack-cloth-humbling solemnitie: Oh, that the hidden man of the heart were gay also: Oh, that by a godly and sincere Reformation every one of you would demonstrate, that you strive to adorn the Gospel of our blessed Saviour more then your selves. Sack-cloth, and fasting and mourning, though not meritorious, you see are not disallowed, are not disannulled: nay, the beasts themselves ought nor to goe scot-free, but partake with the people in the outward duties of fasting, &amp;c. I mean, such kind of humiliation as they were capable of. These sensible ex<g ref="char:EOLhyphen"/>pressions, here in my Text, extended even unto them; the rather, that man, who is endued both with a sensitive &amp; reasonable facul<g ref="char:EOLhyphen"/>tie, may perceive the odiousnesse &amp; heinousnesse of his prevari<g ref="char:EOLhyphen"/>cations with his God, which drawes not only o<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himselfe, but on the beast also such evident humiliation. <hi>A good man is mercifull to his beast,</hi> saith the wisest of Kings: though the wicked (as <hi>Jon<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> speakes, <hi>c.</hi> 2.8.) forsake their owne mercies, yet <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e thinke, they ought not to be so rigorously unjust, as to pull away pitie from
+<pb facs="tcp:160342:5"/>the unreasonable creature, and forfeit clemencie due to beasts. Oh, that our compassion to them, as well as to our selves, could make us consider what we have done! By what hath bin delivered (Beloved) you may perceive how punctuall the <hi>Holy-Ghost,</hi> the Pen-man of the Scriptures, is in this Doctrine of Humiliation; <hi>in fasting, in weeping, and mourning,</hi> it becommeth the godly to be humble; and truly it hath ever bin their constant practice in all Ages: for this, turne to 1 <hi>Sam.</hi> 7.2. <hi>When the Ark of God abode in Kiriathiearim twentie yeares, all the house of Israel lamented af<g ref="char:EOLhyphen"/>ter the Lord, and they turned unto the Lord with all their hearts, and put away Baalim and Ashtaroth, and served the Lord only,</hi> v. 3. <hi>And they drew water, and fasted on that day,</hi> v. 4. And in the Booke of <hi>Judges,</hi> after the people had grievously sinned, and the Angel re<g ref="char:EOLhyphen"/>buked them at <hi>Bochim,</hi> in the second chapter, and 4. and 5. verses, it is set downe punctually that they wept: <hi>For it came to passe, when the Angel of the Lord spake these words unto all the children of Israel, that the people lift up their voice and wept, and they called the name of that place Bochim.</hi> The good King <hi>Josiah,</hi> when he caused the Law to be read before him (at the hearing whereof his heart melted) appointed a <hi>solemne Fast</hi> to be kept. In the Booke of <hi>Esther, Mardochai</hi> and <hi>Esther,</hi> and her Maidens, conti<g ref="char:EOLhyphen"/>nued in fasting, and supplication, and sack-cloth, three whole dayes together, to turne away the wrath of God, and defeat the cruell Conspiracie of <hi>Haman,</hi> who had plotted the Nationall destruction of all the <hi>Jewes. Nehemiah,</hi> when he began the buil<g ref="char:EOLhyphen"/>ding of the Temple, layd the foundation with a <hi>solemne Fast. Ezra</hi> sanctified the people, at the reading of the Law, with the like humiliation.</p>
+            <p>And here I may take occasion (for promoting this dutie) not onely to lay open the nature of this humbling, but the necessitie of it also. The necessitie is drawne from a three-fold reason: the first reason is, because God Almightie often calls for this dutie, as you may reade <hi>Joel.</hi> 2.12. and in divers other places, too long to rehearse: for as there is a voice in every sinne to call for judge<g ref="char:EOLhyphen"/>ment, so there is a voice in every judgment calling for repentance
+<pb facs="tcp:160342:5"/>and Humiliation, see for this in <hi>Micah</hi> 6 Chap. 8.9. <hi>He hath shewed thee O man what is good, and what doth the Lord require of thee, but to do justly, and to love mercy, and walk humbly with thy God? the Lords voyce cryeth unto the Citie, and the</hi> Man <hi>of Wisdome shall see thy name: heare</hi> ye <hi>the Rod, and who hath appoynted it.</hi>
+            </p>
+            <p>God willeth us to walke humbly and hear the rod of his controversie. God strikes upon the stony Rocke of our hearts by his judgements and mercies, as with <hi>Moses</hi> his rod, that the Waters of Repentant tears many gush forth; and in the 8 of <hi>Deut.</hi> when God musters up the forces of his deal<g ref="char:EOLhyphen"/>ings with the people, and makes an inventory of them, is comes all to this Issue, <hi>That he might humble thee</hi> (O Jsrael) <hi>and prove thee to do thee good at thy latter end.</hi> Deut. 8.16.</p>
+            <p>The second reason that necessitates this duty is, because Humiliation onely hath the promise of a blessing annext unto it; St. <hi>Peter</hi> admonisheth us, <hi>Humble your Selves under the mighty hand of God, that he may exalt you in his due time.</hi>
+            </p>
+            <p>To this purpose also belongs that memorable place in 26 <hi>of</hi> Levit. <hi>verse</hi> 40 <hi>and</hi> 44. <hi>If they shall confesse their iniquitie and the iniquitie of their Fathers, with their trespasse which they have trespassed against mee, and that also they have walked contrary unto mee</hi> &amp;c. <hi>If then their uncircumcised hearts bee humbled, and they then accept the punishment of their iniquitie: Then will I remember my Covenent with</hi> Jacob, <hi>with</hi> Jsaac, <hi>and with</hi> Abraham, <hi>and remember the Land.</hi>
+            </p>
+            <p>'Tis evident <hi>God gives Grace and Favour to the humble.</hi> And in the Prophet <hi>Jeremy</hi> when God pronounceth judge<g ref="char:EOLhyphen"/>ments, yet thus he saith to the humble: <hi>If that Nation against whom I have pronounced turne from their evill, then will I re<g ref="char:EOLhyphen"/>pent of the evill that I thought to do unto them,</hi> Jeremy 18.8. Do you expect examples to confirme this Doctrine? Be<g ref="char:EOLhyphen"/>hold them marshalld in a full body, 1 <hi>Kings</hi> 21. verse 27.19. 2 <hi>Chron.</hi> 12.6.7. 2 <hi>Chron.</hi> 34.27.28. First in the ex<g ref="char:EOLhyphen"/>ample
+<pb facs="tcp:160342:6"/>of <hi>Ahab,</hi> for after he had rent his cloathes, and fasted, and lay in Sack cloath &amp;c. <hi>Elijah</hi> denouncing judgements, God grants a reprieve of those judgements. <hi>Seest thou</hi> (saith God) <hi>how</hi> Ahab <hi>humbleth himselfe, &amp;c. I will not bring the evill in his days, but in his sons days will I bring it,</hi> 1 <hi>Kings</hi> 21.27.29. Next in <hi>Rehoboam:</hi> for, when <hi>Shemajah</hi> had told him and his two Princes, that God had left him in the hand of <hi>Shishak</hi> King of <hi>Egypt;</hi> in the 7 verse, when the Lord saw that they humbled themselves, the Lord said, <hi>I will not destroy them, but I will grant them some Deliverance, and my wrath shall not bee powered out upon</hi> Jerusalem <hi>by the hand of</hi> Shishak. 2 <hi>Chron.</hi> 12.6.7. In <hi>Manasses,</hi> he humbled himself greatly before the God of his Fathers, by the innocent fel<g ref="char:EOLhyphen"/>lony of prayer and supplication he knocks off the Fetters of his Captivity in <hi>Babylon,</hi> &amp; makes a Gaole delivery of him<g ref="char:EOLhyphen"/>self: Almighty God signing his <hi>Dimittis,</hi> and bringing him againe to his Kingdome. 2 <hi>Chron.</hi> 33.13. Lastly, of <hi>Josiah</hi> thus speakes God, <hi>Because thy heart was tender and thou didst humble thy selfe before thy God, when thou heardst his words a<g ref="char:EOLhyphen"/>gainst this place, and against the inhabitants thereof, and didst rend thy cloathes, and weepe before me, I have even heard thee also saith the Lord. Behold I will gather thee to thy fathers and to thy grave in peace,</hi> &amp;c. 2 <hi>Chron.</hi> 34.27.28.</p>
+            <p>Next a third reason was, because Humiliation disposeth the Soule with good previous dispositions for mercy, puts it in a posture and capacity to receive the loving kindnesse of the Lord, and truly this is manifest by a certaine place of the Prophet <hi>Esay,</hi> in his 66 <hi>chap. the first and second ver<g ref="char:EOLhyphen"/>ses.</hi> God shews he is not delighted in magnificent structures, against the Jewes, that gloryed in the Temple of the Lord, the Temple of the Lord, like their Successours that boasted they had <hi>Abraham</hi> to their Father: God points them to an<g ref="char:EOLhyphen"/>other Temple, the Temple of the Holy Ghost in an humble heart. For thus saith God: <hi>Where is the House that you
+<pb facs="tcp:160342:6"/>build unto mee,</hi> &amp;c. <hi>But to this man will looke, even to him that is poore and of a contrite spirit</hi> &amp;c. <hi>Esa.</hi> 66.1, 2. God hath these two notable Mansion houses, the highest Heavens, and the humblest heart to dwell in; humility is the recep<g ref="char:EOLhyphen"/>tacle of his Excellency; God intends good things for them that are humble. In the 8 of <hi>Deut.</hi> 16. Hee tells the <hi>Isra<g ref="char:EOLhyphen"/>elites,</hi> he <hi>humbled them to doe them good in the latter end.</hi> And so our Saviour having exhorted his servants to bee lowly, at the last concludes <hi>they shall find rest unto their soules, Mat.</hi> 11.28. Truly the meek are filled with good things, when the rich and proude in opinion are sent empty away. For God setteth himself as in battaile array <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for so the word signifies, a military terme, against the proud, but gives grace to the humble. If wee would then that God should meet us in a way of mercy, prepare to meet him in poverty and sincerity of spirit.</p>
+            <p>Thus much for the necessity. Now for the nature of this humbling which consists in 5 principall thing<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> A godly scrutiny or search after sin, a Hue and Cry. 2 Godly shame for sin. 3. Godly sorrow. 4 Confession of heart and mouth. 5 A judging of our selves. I will passe them over cursorily.</p>
+            <p>For the first duty assure your selves God expects it from you, and he finds fault with the absence of it. Looke into the 8 of <hi>Jere.</hi> the 6. Where God imputeth their horrible impenitency in a great measure to their carelesse examining themselves, for there no man saith what evill have I done? Sure the very Heathen will rise up in judgement against such for so <hi>Phocyllides,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; that is, every day he would call himself to account, what good duties hee omitted, what evill deeds hee com<g ref="char:EOLhyphen"/>mitted. Good God! how generally we come short of this? O that we did keepe Catalogues of our darling sins in wri<g ref="char:EOLhyphen"/>ting;
+<pb facs="tcp:160342:7"/>and spread them before us when wee goe to prayer to pray against them and humble our soules: as godly Mr. <hi>Bradford</hi> was daily wont to doe. There are many idle Diurnalls fly abroad, but this would bee the best Diurnall of all and most profitable. O if we did but take notice of the speciall passages of sinnes since but the last Fast, to be humbled for them. <hi>David</hi> saith, <hi>Psal.</hi> 4. <hi>Commune with your owne selves,</hi> and <hi>Paul, examine your selves if you bee in the faith.</hi> 1 <hi>Cor.</hi> Next is godly shame. Upon strict search ha<g ref="char:EOLhyphen"/>ving found the plague of our hearts, let our faces gather blackenesse and bee covered with confusion. Take unto our selves the good words of <hi>Ezra</hi> cap. 9.6. <hi>O my God, I am ashamed and blush to lift up my face to thee my God: for our Iniquities are increased over our heads, and our trespasse is growne up into the Heavens.</hi> With the Publican dare not to lift up our eyes to Heaven, <hi>Luke</hi> 18 ver. 13.</p>
+            <p>In the Third place marches godly sorrow. that works sal<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as <hi>Chrysost. Hom.</hi> 1 <hi>in Lazarum.</hi> Sit down by the rivers of <hi>Babylon,</hi> your sins, and weepe abun<g ref="char:EOLhyphen"/>dantly and heartily for your own and for others sins, <hi>Draw water unto the Lord in</hi> Mispeh, <hi>make your selves <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ibeonites, in this respect, for the house of the Lord. Davids</hi> example is imitable for himself in <hi>Psal.</hi> 6. <hi>&amp;</hi> 51. and also for others sins, <hi>Psa.</hi> 119. <hi>Rivers run downe my eyes, because men keepe not thy Laws.</hi> So did also that worthy Martyr Mr. <hi>Bradford,</hi> in whose eyes Tears were seene to keepe continuall Randez<g ref="char:EOLhyphen"/>vouze for the sins of the age, he would not goe to Heaven with dry eyes though in a fiery Chariot. Oh how few are thus effected now! Men can weepe for losses of purse, not soule or conscience: they can weepe true warme Teares for the former, but few and those deceitfull crocodile tears for the latter. The good God open the fountain and depths of our hearts and eyes, that the other fountain, for the house of <hi>David,</hi> may bee opened unto us to purge all uncleanesse,
+<pb facs="tcp:160342:7"/>
+               <hi>Zach.</hi> 13.1. <hi>Mary Magdalen</hi> washed Christs feete with her Teares, and <hi>Peter</hi> after sin went out from wicked Compani<g ref="char:EOLhyphen"/>ons and wept bitterly, <hi>Luke</hi> 22.62. In the fourth take up con<g ref="char:EOLhyphen"/>fession, <hi>Levit.</hi> 13.45. <hi>We are uncleane,</hi> and <hi>Psal.</hi> 51. <hi>In sin hath my Mother,</hi> &amp;c. And here acknowledge, and confesse to God not in generall but particular also; bewaile originall and actuall filth, nationall sinnes, fore fathers sinnes, thy o<g ref="char:EOLhyphen"/>ther mens sinnes, family sinnes, others sinnes, for which <hi>Lots</hi> righteous Soule was dayly vexed; 2 <hi>Pet<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 2.7.8. Fifthly and lastly condemne we our owne selves, confessing God is righteous, we unrighteous; take the example of the penitent Theefe upon the Crosse in so doing; take ye ex<g ref="char:EOLhyphen"/>ample of <hi>Nehemiah, Thou art just O Lord in all that is brought upon us, thou hast done right, but we have done wickedly,</hi> Nehe. 9.33. We can never be fitted for accepting of mercy, till we can passe sentence against our selves, that it is the Lords mer<g ref="char:EOLhyphen"/>cy that we are not consumed, <hi>Lamen.</hi> 3.22. <hi>O pray against cor<g ref="char:EOLhyphen"/>ruptions to keep the body of sin under, that it may not reign</hi> Rom. 6.28. And thus I come to my next part, <hi>Devout Supplication,</hi> which indeed is the magnetique chaine that tyes Heaven &amp; Earth together, the sweet Dialogue of a Soule with God. <hi>Cry mightily</hi> saith the Text, or as the Sep<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uagint hath it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, uncessantly, vigorously, The Apostle hath it <hi>proy con<g ref="char:EOLhyphen"/>tinually;</hi> that is to be alwayes so affected as that we may bee in continuall posture for that duty, having our soules in good condition of Grace alwayes stored, like a good Maga<g ref="char:EOLhyphen"/>zeen, with ammunition inexhanstible of holy meditations: Our Saviour Christ himselfe trod in this stop, for as <hi>Paul</hi> witnesseth, he offerd up with strong cryes and teares in the dayes of his flesh, prayers and supplications to him that was able to save him, and was heard in that he feared, <hi>Heb.</hi> 5.7. Nay, he continued a whole night in prayer before his passion, he calleth Gods House the House of Prayer, to in<g ref="char:EOLhyphen"/>culcate this heavenly guift into us, <hi>Solomon</hi> at the dedication
+<pb facs="tcp:160342:8"/>of the Temple makes <hi>prayer</hi> a soveraigne Balsam against all calamitous accidents of life, to give ease to all distresses; for thus faith he: <hi>If there be famine, or war, or pestilence, or mil<g ref="char:EOLhyphen"/>dew &amp;c. when thy people stretch forth their hands to thee in this place, then heare thou from heaven the place of thy holines &amp;c.</hi> 2 <hi>Chron.</hi> Prayer wrestles with God <hi>Jacob.</hi> like. It chal<g ref="char:EOLhyphen"/>lenges him with his word and promises, looke downe from Heaven the habitation of thy glory and holinesse, where is thy zeale, thy strength, and the sounding of thy bowells, and thy everlasting mercies. Nay, it puts confidence in God, as if it should say, <hi>I know in whom I have beleeved,</hi> for so it fol<g ref="char:EOLhyphen"/>lowes, <hi>doubtlesse thou art our Father, though</hi> Abraham <hi>bee ig<g ref="char:EOLhyphen"/>norant of us and</hi> Jsrael <hi>acknowledge us not, thou O Lord art our Father, our Redeemer, thy name is from everlasting, Jsay</hi> 63.15.16. Prayer is not only <hi>Scala Coeli, Jacobs</hi> ladder, but (as one saith) the Saints <hi>Bethesda,</hi> when they step into it they are cured. <hi>Psal.</hi> 3 at the 4. <hi>David</hi> professeth, <hi>when I cry'd to the Lord with my voyce, the Lord heard me out of his holy Hill.</hi> Mark the experimentall happy successe the holy man found to his Petitions, surely he might well take up that true max<g ref="char:EOLhyphen"/>ime, <hi>God is a God that heareth prayer and a present helpe in the needfull time of trouble. Hezekia</hi> verifies it too, for having mourned like a <hi>Dove</hi> in the affliction of his soule, at last he breakes forth: <hi>The Lord is ready to save, therefore wee will sing our songs all the dayes of our life, Isay</hi> 38.20. For this shall every one that is godly make his prayer unto thee in an acceptable time, saith the <hi>Psalmist:</hi> God heareth his saints when they cry mightily unto him either with vocall or cor<g ref="char:EOLhyphen"/>diall prayer onely. For cordiall supplication, he said unto <hi>Moses, let me alone, why cryest thou unto mee?</hi> And for vocall in <hi>David</hi> in the forementioned 3 <hi>Psal.</hi> 4. Afflictions and judgements make the servants of God cry. The <hi>Ninivites</hi> to cry mightily here in my text. <hi>Extremity of misery is the Saints highest opportunity to prayer.</hi> It is hard if wee cannot
+<pb facs="tcp:160342:8"/>find to fal on our knees when we are ready to be leveld with the ground, &amp; our honor laid in the dust: It is a fearfull con<g ref="char:EOLhyphen"/>dition when God shall lay visitations and judgements on us to bring us to him, and wee shall chuse to blaspheme him in the midst of our torments, and to curse God and dye ra<g ref="char:EOLhyphen"/>ther than to repent: when God shall chastise us with the chastisements of <hi>Israel,</hi> and wee turne them into the plagues of <hi>Egipt;</hi> the corrections of sons, into the destruction of e<g ref="char:EOLhyphen"/>nemies. The men of <hi>Ninive</hi> shall rise up in judgement in the last day against them that are backeward in this hu<g ref="char:EOLhyphen"/>miliation, for they repented and sat down in sackloath and ashes at the preaching of <hi>Jonah. Nihil miserius miser is s<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non miserantibus,</hi> 'Tis fearefull to be in a state of miserable and yet stubborne insensibility. O that the men of <hi>England</hi> would follow that godly counsell of a dying Martyr, re<g ref="char:EOLhyphen"/>pent O <hi>England,</hi> repent; and amend their wayes and their doings that they may dwell in this place, <hi>Jeremi.</hi> 7.3. ver. That so that <hi>Phaenix</hi> off spring might spring up, which is my next particular, <hi>Reformation. That every one would turne from his evill wayes</hi> &amp;c. Generally wee are corrupted and therefore there is need of a generall renovation, generally born the sonnes and daughters of iniquity, but we were not contented with that, but have made our selves gally slaves unto it: according to our crimes wee have had generall sorrows and have pledged one another in this Cup, the sword which wee feared hath overtaken us <hi>Jeremi.</hi> 42.16. without have been fightings, within fears, so that like <hi>Pashur</hi> we have run from chamber to chamber, and yet the storme something past, with <hi>Gallio</hi> wee have cared for none of these things, but have still remained incorrigible and unreformed, In the rebellion of our uncircumcised hearts we have taken courses contrary unto God, even as God in punishments hath taken courses contrary unto us, as <hi>Salvian</hi> tels us, <hi>mi<g ref="char:EOLhyphen"/>seri fuim us pariter &amp; luxurios<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> even under the Crosse we are wicked.
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:160342:9"/>
+               <pb facs="tcp:160342:10"/>Generally we fight not the good fight of faith, 1 <hi>Tim.</hi> 6. but the evill combat of lusts that war in our Members: we yeeld to sin and Sathan, and will not bee Reformadoes under the. Captaine of our salvation Jesus Christ; with foolish <hi>Glancus</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, we choose the armor of the Prince of darkenes, before the armour of light from the Father of Lights.</p>
+            <p>Gods ordinance for his Militia is despised <hi>put on the armor of God</hi> &amp;c. <hi>Ephes.</hi> cap. 6. ver. <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. In this universall deluge of wickednesse what more necessary than universall refor<g ref="char:EOLhyphen"/>mation? The good God send forth <hi>Nehem abs</hi> &amp; <hi>Zerebabels,</hi> before whom all the mountaines of sin may be layd levell. That nationall, personall, and family sins, deceivable lusts, and sins that go with a high hand may be taken notice of, crimson sins, and all that so easily beset us may be purged: idolatry, prophanesse, coverousnesse, scorne of the means of grace, scorne of the word and professors, and stifeneckednes under gods hand may be reformed: hear I beseech you Gods bill of complaint as it is registred <hi>Jere.</hi> 23.10, 11, 12. <hi>The land is full of adulterers, because of swearing, the land mourneth</hi> &amp;c. Both preist and prophet are prophane. Wherefore their way shall be unto them as slippery ways, in the darknes they shall be driven on and fall therein; for I will bring evill up<g ref="char:EOLhyphen"/>on them, even the yeare of their visitation, saith the Lord.</p>
+            <p>Would we avoyd judgements? O think what is more ne<g ref="char:EOLhyphen"/>cessary then Reformation. Now it is a rule in Philosophy, <hi>propositiones necessariae debent esse universales,</hi> necessary propo<g ref="char:EOLhyphen"/>sitions ought to be generall and universall. Let me perswade you then generally and impartially to set your selves about this duty; put it not off from one to another, nor from day to day, it is the businesse of this day, <hi>Opus diet in dei suo,</hi> it is a word spoken in season, O let it be as apples of gold in pictures of silver; finally let the generall counfell of the Apostles generall Epistle, confirme this generall duty, <hi>Drath night to God, and he will draw night to you, Cleanse your hands ye sinners, and purifie your hearts ye double minded,</hi> Jam. 4.8.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
